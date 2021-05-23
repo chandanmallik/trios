@@ -1,0 +1,14 @@
+.base1{
+    border-radius: 40px;
+    background-color: #f9c098de;
+    display: inline-block;
+    left: 38%;
+    height: 75%;
+    width: 24%;
+    margin: 0 auto 0 auto;
+    opacity: .7;
+    position: absolute;
+    top: 10%;
+    text-align: center;
+    
+}
