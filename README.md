@@ -1,2 +1,1 @@
-# trios
-Config files for my GitHub profile.
+base.html
