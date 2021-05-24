@@ -1,0 +1,73 @@
+body{
+    height: 30%;
+    align-items: center;
+    background-color: bisque;
+    
+}
+
+.base1{
+    border-radius: 40px;
+    background-color: #f9c098de;
+    display: inline-block;
+    left: 26%;
+    height: auto;
+    width: 53%;
+    margin: 0 auto 0 auto;
+    opacity: .7;
+    position: absolute;
+    top: 10%;
+    text-align: center;
+    
+}
+.base2{
+    border-radius: 40px;
+    display: inline-block;
+    background-color: cadetblue;
+    padding: 20px;
+    height: auto;
+    top: 76%;
+    left: 46%;
+    position: absolute;
+}
+.img1{
+    background-size: cover;
+    background-image: url(https://drive.google.com/uc?id=17zPzbZ-7RIF298CAvi7aSZT9tI2mbDJp);
+    position:absolute;
+    height: 40%;
+    width: 20%;
+    top: 40%;
+    left: 15%;
+    border-radius: 40px;
+    size: 30px * 30px;
+    transition: width 4s;
+}
+.img2{
+    background-size: cover;
+    background-image: url(https://drive.google.com/uc?id=1tOBMnLowX2ln4a4wCaAF1l6v9VKOCMSB);
+    position:absolute;
+    height: 40%;
+    width: 20%;
+    top: 20%;
+    right: 15%;
+    border-radius: 40px;
+    transition: width 4s;
+}
+.img1:hover{
+    height: 50%;
+    width: 30%;
+}
+.img2:hover{
+    height: 50%;
+    width: 30%;
+}
+.pay{
+    border: 0px;
+    border-radius: 40px;
+    background-color: cadetblue;
+    transition: 2s;
+}
+.pay:hover{
+
+    background-color: rgb(253, 253, 253);
+    text-decoration-color: aliceblue;
+}
