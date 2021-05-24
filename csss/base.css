@@ -35,8 +35,8 @@ body{
     position:absolute;
     height: 210px;
     width: 210px;
-    top: 40%;
-    left: 5%;
+    top: 400px;
+    left: 10px;
     border-radius: 40px;
     size: 30px * 30px;
     transition: width 4s;
@@ -48,8 +48,8 @@ body{
     position:absolute;
     height: 200px;
     width: 200px;
-    top: 20%;
-    right: 15%;
+    top: 200px;
+    right: 10px;
     border-radius: 40px;
     transition: width 4s;
 }
