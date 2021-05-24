@@ -39,7 +39,8 @@ body{
     left: 10px;
     border-radius: 40px;
     size: 30px * 30px;
-    transition: width 4s;
+    transition: width 2s;
+    transition: height 2s:
 
 }
 .img2{
@@ -51,7 +52,8 @@ body{
     top: 200px;
     right: 10px;
     border-radius: 40px;
-    transition: width 4s;
+    transition: width 2s;
+    transition: height 2s:
 }
 .img1:hover{
     height: 400px;
